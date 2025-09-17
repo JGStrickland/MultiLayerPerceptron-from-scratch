@@ -1,4 +1,4 @@
-# MultLayerPerceptron from scratch
+# MultiLayerPerceptron from scratch
 ## Author
 JGStrickland
 
